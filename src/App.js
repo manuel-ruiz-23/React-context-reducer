@@ -6,8 +6,7 @@ function App() {
   return (
     <GlobalContextProvider>
       <div className="App">
-
-        <Contador></Contador>
+        <Contador/>
       </div>
     </GlobalContextProvider>
   );
